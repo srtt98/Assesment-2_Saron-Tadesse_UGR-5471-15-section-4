@@ -1,0 +1,15 @@
+.aboutpagef{
+    display: grid;
+    grid-template-columns: 800px 300px;
+}
+p{
+    font-size: 13px;
+    line-height: 22px;
+}
+.contactpaf{
+    display: grid;
+    grid-template-columns: 700px 500px;
+}
+.contactus{
+    margin-left: 40px;
+}
